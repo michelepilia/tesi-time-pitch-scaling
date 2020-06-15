@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6c98911-0272-4db5-abaa-ae8c85c3f28f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_resampling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/image_resampling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +37,12 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -57,7 +60,10 @@
       <updated>1591810805829</updated>
       <workItem from="1591810809774" duration="56000" />
       <workItem from="1591810867113" duration="2229000" />
-      <workItem from="1591814814071" duration="1000000" />
+      <workItem from="1591814814071" duration="1388000" />
+      <workItem from="1592036731543" duration="4917000" />
+      <workItem from="1592170825623" duration="1188000" />
+      <workItem from="1592239640619" duration="5271000" />
     </task>
     <servers />
   </component>
@@ -65,9 +71,22 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="149" y="39" key="SettingsEditor" timestamp="1591815909126">
+    <state x="227" y="0" key="CommitChangelistDialog2" timestamp="1591816320278">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="149" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1591815909126" />
+    <state x="227" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1591816320278" />
+    <state x="148" y="23" key="SettingsEditor" timestamp="1592176103814">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="148" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1592176103814" />
+    <state x="421" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592041452415">
+      <screen x="-330" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="421" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592041452415" />
+    <state x="-330" y="-1080" width="1920" height="1080" key="dock-window-1" timestamp="1592240141712">
+      <screen x="-330" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-330" y="-1080" width="1920" height="1080" key="dock-window-1/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592240141712" />
+    <state x="169" y="197" width="1280" height="709" key="dock-window-1/0.0.1280.800@0.0.1280.800" timestamp="1592171475290" />
   </component>
 </project>
