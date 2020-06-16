@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6c98911-0272-4db5-abaa-ae8c85c3f28f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/audio_detector.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_resampling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/image_resampling.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +28,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="36a37eb7-01b0-47a5-8e36-6c89305d1a45" />
+  <component name="JupyterTrust" id="36a37eb7-01b0-47a5-8e36-6c89305d1a45">
+    <option name="files">
+      <option value="audio_detector.ipynb" />
+    </option>
+  </component>
   <component name="ProjectId" id="1d8lrPKMhAsULLLulGvigCdTDXl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -63,7 +68,8 @@
       <workItem from="1591814814071" duration="1388000" />
       <workItem from="1592036731543" duration="4917000" />
       <workItem from="1592170825623" duration="1188000" />
-      <workItem from="1592239640619" duration="5271000" />
+      <workItem from="1592239640619" duration="13276000" />
+      <workItem from="1592289780609" duration="7180000" />
     </task>
     <servers />
   </component>
@@ -75,18 +81,35 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="227" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1591816320278" />
-    <state x="148" y="23" key="SettingsEditor" timestamp="1592176103814">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1592294525954">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592294525954" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1592294525951">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592294525951" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1592294525947">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592294525947" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1592294525952">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592294525952" />
+    <state x="5" y="-936" key="SettingsEditor" timestamp="1592295810971">
+      <screen x="-330" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="5" y="-936" key="SettingsEditor/-330.-1080.1920.1080/0.23.1280.709@0.23.1280.709" timestamp="1592295810971" />
     <state x="148" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1592176103814" />
-    <state x="421" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592041452415">
+    <state x="421" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592292295617">
       <screen x="-330" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="421" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592041452415" />
-    <state x="-330" y="-1080" width="1920" height="1080" key="dock-window-1" timestamp="1592240141712">
+    <state x="421" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592292295617" />
+    <state x="-330" y="-1080" width="1920" height="1080" key="dock-window-1" timestamp="1592299959432">
       <screen x="-330" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="-330" y="-1080" width="1920" height="1080" key="dock-window-1/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592240141712" />
-    <state x="169" y="197" width="1280" height="709" key="dock-window-1/0.0.1280.800@0.0.1280.800" timestamp="1592171475290" />
+    <state x="-330" y="-1080" width="1920" height="1080" key="dock-window-1/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592299959432" />
+    <state x="0" y="0" width="1280" height="800" maximized="true" key="dock-window-1/0.0.1280.800@0.0.1280.800" timestamp="1592248376753" />
   </component>
 </project>
