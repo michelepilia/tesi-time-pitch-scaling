@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6c98911-0272-4db5-abaa-ae8c85c3f28f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/audio_detector.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio_detector.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/audio_detector.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/image_resampling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/image_resampling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_filename.wav" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +71,8 @@
       <workItem from="1592170825623" duration="1188000" />
       <workItem from="1592239640619" duration="13276000" />
       <workItem from="1592289780609" duration="7180000" />
+      <workItem from="1592406729768" duration="6277000" />
+      <workItem from="1592431435057" duration="2910000" />
     </task>
     <servers />
   </component>
@@ -81,35 +84,39 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="227" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1591816320278" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1592294525954">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1592431784538">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592294525954" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1592294525951">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592431784538" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1592431784536">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.center/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592294525951" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1592294525947">
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1592431784536" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1592431784535">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.left/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592294525947" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1592294525952">
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1592431784535" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1592431784537">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.right/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592294525952" />
-    <state x="5" y="-936" key="SettingsEditor" timestamp="1592295810971">
-      <screen x="-330" y="-1080" width="1920" height="1080" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1592431784537" />
+    <state x="148" y="23" key="SettingsEditor" timestamp="1592409053305">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="5" y="-936" key="SettingsEditor/-330.-1080.1920.1080/0.23.1280.709@0.23.1280.709" timestamp="1592295810971" />
-    <state x="148" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1592176103814" />
+    <state x="148" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1592409053305" />
     <state x="421" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592292295617">
       <screen x="-330" y="-1080" width="1920" height="1080" />
     </state>
     <state x="421" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592292295617" />
-    <state x="-330" y="-1080" width="1920" height="1080" key="dock-window-1" timestamp="1592299959432">
-      <screen x="-330" y="-1080" width="1920" height="1080" />
+    <state x="189" y="268" width="1280" height="709" key="dock-window-1" timestamp="1592409103741">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="-330" y="-1080" width="1920" height="1080" key="dock-window-1/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592299959432" />
-    <state x="0" y="0" width="1280" height="800" maximized="true" key="dock-window-1/0.0.1280.800@0.0.1280.800" timestamp="1592248376753" />
+    <state x="189" y="268" width="1280" height="709" key="dock-window-1/0.0.1280.800@0.0.1280.800" timestamp="1592409103741" />
   </component>
 </project>
