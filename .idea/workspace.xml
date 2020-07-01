@@ -2,10 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6c98911-0272-4db5-abaa-ae8c85c3f28f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/synthetic_detector.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio_detector.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/audio_detector.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_resampling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/image_resampling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_filename.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Appunti 16 giugno.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio_image_resampling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/audio_image_resampling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/drum_faster_aware_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/drum_faster_fast_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/drum_original_aware_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/drum_original_fast_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/drum_slower_aware_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/drum_slower_fast_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/flute_faster_aware_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/flute_faster_fast_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/flute_original_aware_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/flute_original_fast_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/flute_slower_aware_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/flute_slower_fast_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/piano_faster_aware_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/piano_faster_fast_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/piano_original_aware_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/piano_original_fast_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/piano_slower_aware_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/piano_slower_fast_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/real_image_complete_detector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/real_image_fast_detector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/woman_faster_aware_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/woman_faster_fast_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/woman_original_aware_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/woman_original_fast_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/woman_slower_aware_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector_output/woman_slower_fast_detector_full_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lin_spec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lin_spec_unc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log_spec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log_spec_unc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uncompressed.tif" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +59,21 @@
     <expand />
     <select />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="36a37eb7-01b0-47a5-8e36-6c89305d1a45">
     <option name="files">
       <option value="audio_detector.ipynb" />
+      <option value="synthetic_detector.ipynb" />
     </option>
   </component>
   <component name="ProjectId" id="1d8lrPKMhAsULLLulGvigCdTDXl" />
@@ -41,6 +83,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -52,7 +95,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -73,6 +116,20 @@
       <workItem from="1592289780609" duration="7180000" />
       <workItem from="1592406729768" duration="6277000" />
       <workItem from="1592431435057" duration="2910000" />
+      <workItem from="1592435012090" duration="410000" />
+      <workItem from="1592727183326" duration="4132000" />
+      <workItem from="1592739563194" duration="287000" />
+      <workItem from="1592900025255" duration="815000" />
+      <workItem from="1592901166475" duration="1327000" />
+      <workItem from="1592928337672" duration="2655000" />
+      <workItem from="1592945895229" duration="1650000" />
+      <workItem from="1592949173394" duration="1457000" />
+      <workItem from="1592951076239" duration="626000" />
+      <workItem from="1592951990323" duration="1301000" />
+      <workItem from="1592955270912" duration="428000" />
+      <workItem from="1593521771966" duration="10784000" />
+      <workItem from="1593618761870" duration="4257000" />
+      <workItem from="1593623325079" duration="932000" />
     </task>
     <servers />
   </component>
@@ -80,43 +137,66 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593534175490">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.23.1360.745/0.0.1280.800@0.0.1280.800" timestamp="1593534175490" />
     <state x="227" y="0" key="CommitChangelistDialog2" timestamp="1591816320278">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="227" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1591816320278" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1592431784538">
+    <state width="1238" height="219" key="GridCell.Tab.0.bottom" timestamp="1593623809497">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592294525954" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592431784538" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1592431784536">
+    <state width="1238" height="219" key="GridCell.Tab.0.bottom/1280.0.1360.768/0.0.1280.800@0.0.1280.800" timestamp="1593623809497" />
+    <state width="1238" height="219" key="GridCell.Tab.0.center" timestamp="1593623809494">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.center/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592294525951" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1592431784536" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1592431784535">
+    <state width="1238" height="219" key="GridCell.Tab.0.center/1280.0.1360.768/0.0.1280.800@0.0.1280.800" timestamp="1593623809494" />
+    <state width="1238" height="219" key="GridCell.Tab.0.left" timestamp="1593623809492">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.left/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592294525947" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1592431784535" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1592431784537">
+    <state width="1238" height="219" key="GridCell.Tab.0.left/1280.0.1360.768/0.0.1280.800@0.0.1280.800" timestamp="1593623809492" />
+    <state width="1238" height="219" key="GridCell.Tab.0.right" timestamp="1593623809495">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.right/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592294525952" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1592431784537" />
-    <state x="148" y="23" key="SettingsEditor" timestamp="1592409053305">
+    <state width="1238" height="219" key="GridCell.Tab.0.right/1280.0.1360.768/0.0.1280.800@0.0.1280.800" timestamp="1593623809495" />
+    <state x="148" y="23" key="SettingsEditor" timestamp="1593619563010">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="5" y="-936" key="SettingsEditor/-330.-1080.1920.1080/0.23.1280.709@0.23.1280.709" timestamp="1592295810971" />
-    <state x="148" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1592409053305" />
+    <state x="148" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1592435245968" />
+    <state x="148" y="23" key="SettingsEditor/1280.0.1360.768/0.0.1280.800@0.0.1280.800" timestamp="1593619563010" />
     <state x="421" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592292295617">
       <screen x="-330" y="-1080" width="1920" height="1080" />
     </state>
     <state x="421" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592292295617" />
-    <state x="189" y="268" width="1280" height="709" key="dock-window-1" timestamp="1592409103741">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="1280" y="0" width="1360" height="768" key="dock-window-1" timestamp="1593623727981">
+      <screen x="1280" y="0" width="1360" height="768" />
     </state>
     <state x="-330" y="-1080" width="1920" height="1080" key="dock-window-1/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592299959432" />
     <state x="189" y="268" width="1280" height="709" key="dock-window-1/0.0.1280.800@0.0.1280.800" timestamp="1592409103741" />
+    <state x="0" y="0" width="1360" height="768" key="dock-window-1/0.0.1360.768@0.0.1360.768" timestamp="1593539230681" />
+    <state x="1280" y="0" width="1360" height="768" key="dock-window-1/1280.0.1360.768/0.0.1280.800@0.0.1280.800" timestamp="1593623727981" />
+    <state x="1280" y="0" width="1360" height="768" maximized="true" key="dock-window-1/1280.23.1360.745/0.23.1280.709@0.23.1280.709" timestamp="1593619243236" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/michelepilia/tesi/audio_image_resampling.ipynb</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
