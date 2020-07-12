@@ -2,62 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6c98911-0272-4db5-abaa-ae8c85c3f28f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/synthetic_detector.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Appunti 16 giugno.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio_image_resampling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/audio_image_resampling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/drum_faster_aware_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/drum_faster_fast_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/drum_original_aware_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/drum_original_fast_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/drum_slower_aware_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/drum_slower_fast_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/flute_faster_aware_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/flute_faster_fast_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/flute_original_aware_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/flute_original_fast_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/flute_slower_aware_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/flute_slower_fast_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/piano_faster_aware_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/piano_faster_fast_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/piano_original_aware_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/piano_original_fast_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/piano_slower_aware_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/piano_slower_fast_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/real_image_complete_detector.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/real_image_fast_detector.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/woman_faster_aware_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/woman_faster_fast_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/woman_original_aware_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/woman_original_fast_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/woman_slower_aware_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detector_output/woman_slower_fast_detector_full_linear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lin_spec.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lin_spec_unc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log_spec.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log_spec_unc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uncompressed.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sine1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sine2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/synthetic_detector.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/synthetic_detector.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -86,6 +39,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/audio/synthetic_new" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -95,7 +49,20 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="tesi" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="tesi" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/audio/synthetic_new" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -130,6 +97,19 @@
       <workItem from="1593521771966" duration="10784000" />
       <workItem from="1593618761870" duration="4257000" />
       <workItem from="1593623325079" duration="932000" />
+      <workItem from="1593629061971" duration="738000" />
+      <workItem from="1593677941698" duration="1133000" />
+      <workItem from="1594109128488" duration="1858000" />
+      <workItem from="1594118789768" duration="284000" />
+      <workItem from="1594119326662" duration="799000" />
+      <workItem from="1594120344316" duration="2095000" />
+      <workItem from="1594138400103" duration="35000" />
+      <workItem from="1594148093373" duration="3134000" />
+      <workItem from="1594227468385" duration="268000" />
+      <workItem from="1594294080201" duration="14622000" />
+      <workItem from="1594372485113" duration="911000" />
+      <workItem from="1594374000004" duration="5137000" />
+      <workItem from="1594392761255" duration="662000" />
     </task>
     <servers />
   </component>
@@ -141,52 +121,81 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.23.1360.745/0.0.1280.800@0.0.1280.800" timestamp="1593534175490" />
+    <state x="248" y="92" key="#xdebugger.evaluate" timestamp="1594387837219">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="248" y="92" key="#xdebugger.evaluate/0.0.1280.800@0.0.1280.800" timestamp="1594387837219" />
     <state x="227" y="0" key="CommitChangelistDialog2" timestamp="1591816320278">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="227" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1591816320278" />
-    <state width="1238" height="219" key="GridCell.Tab.0.bottom" timestamp="1593623809497">
+    <state x="498" y="116" key="EnvironmentVariablesDialog" timestamp="1594379435266">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="498" y="116" key="EnvironmentVariablesDialog/0.0.1280.800@0.0.1280.800" timestamp="1594379435266" />
+    <state width="1238" height="264" key="GridCell.Tab.0.bottom" timestamp="1594389927651">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592294525954" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592431784538" />
+    <state width="1238" height="264" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1594389927651" />
     <state width="1238" height="219" key="GridCell.Tab.0.bottom/1280.0.1360.768/0.0.1280.800@0.0.1280.800" timestamp="1593623809497" />
-    <state width="1238" height="219" key="GridCell.Tab.0.center" timestamp="1593623809494">
+    <state width="1238" height="264" key="GridCell.Tab.0.center" timestamp="1594389927647">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.center/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592294525951" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1592431784536" />
+    <state width="1238" height="264" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1594389927647" />
     <state width="1238" height="219" key="GridCell.Tab.0.center/1280.0.1360.768/0.0.1280.800@0.0.1280.800" timestamp="1593623809494" />
-    <state width="1238" height="219" key="GridCell.Tab.0.left" timestamp="1593623809492">
+    <state width="1238" height="264" key="GridCell.Tab.0.left" timestamp="1594389927645">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.left/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592294525947" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1592431784535" />
+    <state width="1238" height="264" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1594389927645" />
     <state width="1238" height="219" key="GridCell.Tab.0.left/1280.0.1360.768/0.0.1280.800@0.0.1280.800" timestamp="1593623809492" />
-    <state width="1238" height="219" key="GridCell.Tab.0.right" timestamp="1593623809495">
+    <state width="1238" height="264" key="GridCell.Tab.0.right" timestamp="1594389927649">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.right/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592294525952" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1592431784537" />
+    <state width="1238" height="264" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1594389927649" />
     <state width="1238" height="219" key="GridCell.Tab.0.right/1280.0.1360.768/0.0.1280.800@0.0.1280.800" timestamp="1593623809495" />
-    <state x="148" y="23" key="SettingsEditor" timestamp="1593619563010">
+    <state width="1238" height="264" key="GridCell.Tab.1.bottom" timestamp="1594389927660">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1594389927660" />
+    <state width="1238" height="264" key="GridCell.Tab.1.center" timestamp="1594389927655">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1594389927655" />
+    <state width="1238" height="264" key="GridCell.Tab.1.left" timestamp="1594389927653">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1594389927653" />
+    <state width="1238" height="264" key="GridCell.Tab.1.right" timestamp="1594389927656">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1594389927656" />
+    <state x="148" y="23" key="SettingsEditor" timestamp="1594379554306">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="5" y="-936" key="SettingsEditor/-330.-1080.1920.1080/0.23.1280.709@0.23.1280.709" timestamp="1592295810971" />
-    <state x="148" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1592435245968" />
+    <state x="148" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1594379554306" />
     <state x="148" y="23" key="SettingsEditor/1280.0.1360.768/0.0.1280.800@0.0.1280.800" timestamp="1593619563010" />
     <state x="421" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592292295617">
       <screen x="-330" y="-1080" width="1920" height="1080" />
     </state>
     <state x="421" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592292295617" />
-    <state x="1280" y="0" width="1360" height="768" key="dock-window-1" timestamp="1593623727981">
-      <screen x="1280" y="0" width="1360" height="768" />
+    <state x="0" y="91" width="1280" height="709" key="dock-window-1" timestamp="1593636163520">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="-330" y="-1080" width="1920" height="1080" key="dock-window-1/-330.-1080.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1592299959432" />
-    <state x="189" y="268" width="1280" height="709" key="dock-window-1/0.0.1280.800@0.0.1280.800" timestamp="1592409103741" />
+    <state x="0" y="0" width="1280" height="800" key="dock-window-1/0.0.1280.800@0.0.1280.800" timestamp="1593633781449" />
     <state x="0" y="0" width="1360" height="768" key="dock-window-1/0.0.1360.768@0.0.1360.768" timestamp="1593539230681" />
+    <state x="0" y="91" width="1280" height="709" key="dock-window-1/0.23.1280.709@0.23.1280.709" timestamp="1593636163519" />
     <state x="1280" y="0" width="1360" height="768" key="dock-window-1/1280.0.1360.768/0.0.1280.800@0.0.1280.800" timestamp="1593623727981" />
     <state x="1280" y="0" width="1360" height="768" maximized="true" key="dock-window-1/1280.23.1360.745/0.23.1280.709@0.23.1280.709" timestamp="1593619243236" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1594335547027">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1594335547027" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
